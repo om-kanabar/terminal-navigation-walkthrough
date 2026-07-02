@@ -1,0 +1,25 @@
+{
+  "users": [
+    {
+      "name": "Alex",
+      "city": "Chicago"
+    },
+    {
+      "name": "Emma",
+      "city": "Boston"
+    },
+    {
+      "name": "Liam",
+      "city": "Seattle"
+    },
+    {
+      "name": "Sophia",
+      "city": "Austin"
+    },
+    {
+      "name": "Noah",
+      "city": "Miami"
+    }
+  ]
+}
+
